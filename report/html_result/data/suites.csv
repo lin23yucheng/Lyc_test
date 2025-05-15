@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 04 15:44:54 CST 2023","Tue Jul 04 15:44:54 CST 2023","48","","test_login","TestLogin","","","test_login[req_body2-exp_data2-错误手机号，正确密码]",""
+"passed","Tue Jul 04 15:44:48 CST 2023","Tue Jul 04 15:44:51 CST 2023","2456","","test_login","TestLogin","","","test_login[req_body0-exp_data0-正确手机号，正确密码]",""
+"passed","Tue Jul 04 15:44:57 CST 2023","Tue Jul 04 15:44:57 CST 2023","46","","test_login","TestLogin","","","test_login[req_body4-exp_data4-手机号为空，正确密码]",""
+"passed","Tue Jul 04 15:44:51 CST 2023","Tue Jul 04 15:44:54 CST 2023","2995","","test_login","TestLogin","","","test_login[req_body1-exp_data1-正确手机号，错误密码]",""
+"passed","Tue Jul 04 15:44:57 CST 2023","Tue Jul 04 15:44:57 CST 2023","43","","test_login","TestLogin","","","test_login[req_body5-exp_data5-手机号密码都为空]",""
+"passed","Tue Jul 04 15:44:54 CST 2023","Tue Jul 04 15:44:57 CST 2023","2946","","test_login","TestLogin","","","test_login[req_body3-exp_data3-正确手机号，密码为空]",""
