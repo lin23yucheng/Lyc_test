@@ -17,7 +17,7 @@ def rename_files_and_modify_json(folder_path):
                         random_num2 = random.randint(9000, 9999)
                         random_num3 = random.randint(1, 10)
                         current_time = time.strftime("%Y%m%d%H%M%S") + str(time.time()).split('.')[1][:3]
-                        new_file_name = f"{random_num1}-{random_num2}-{random_num3}-JHOCT001-01-02-03-04-{current_time}"
+                        new_file_name = f"1234-5678-{random_num3}-JHOCT001-01-02-03-04-{current_time}"
                         new_file_path = os.path.join(root, new_file_name + file_extension)
                         if not os.path.exists(new_file_path):
                             file_dict[file_name] = new_file_name
